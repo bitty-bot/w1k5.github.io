@@ -1,0 +1,45 @@
+h1 {
+        text-align: center;
+        font-family: "Lucida Console", Monaco, monospace
+        font-size: 24pt;
+        color: #000000;
+        margin-bottom: 20px;
+        margin-top:10px
+        margin-right:200px
+        margin-left:200px;
+    }
+  
+    table {
+        margin: 5px;
+        width: 290px;
+    }
+  
+    th {
+        padding: 3px;
+    }
+  
+    td {
+        padding-left: 8px;
+        padding-right: 8px;
+        border: 1px solid #990000;
+        background-color: #ffffcc;
+    }
+
+    #trHeader {
+        text-decoration: underline;
+        color: #990000;
+    }
+  
+    .centerCell {
+        text-align: center;
+    }
+
+p {
+    text-align: center;
+    font-size: 12pt;
+    font: "Lucida Console", Monaco, monospace;
+     margin-bottom: 20px;
+     margin-top:10px
+     margin-right:300px
+     margin-left:300px;
+}
